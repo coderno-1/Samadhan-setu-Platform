@@ -1,0 +1,12 @@
+{
+  "name": "samadhan-setu",
+  "version": "0.1.0",
+  "private": true,
+  "description": "SIH26043 citizen-to-solution collaboration platform",
+  "scripts": {
+    "dev": "pnpm --parallel --filter client --filter server dev",
+    "build": "pnpm --filter client build",
+    "start": "pnpm --filter server start"
+  },
+  "packageManager": "pnpm@10.8.1"
+}
