@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Samadhan Setu
 
 > AI-powered civic problem reporting, analysis, and solution platform.
@@ -410,3 +411,7 @@ Government Engineering College, Buxar, Bihar
 ------------------------------------------------------------------------
 
 Made for building practical civic solutions with technology. 🇮🇳
+=======
+# samadhan-setu-platform
+AI-powered civic problem reporting, analysis, and solution platform.
+>>>>>>> 90e41990a5f3f915e6714fe0d38715d962bbf91b
